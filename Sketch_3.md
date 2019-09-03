@@ -1,21 +1,26 @@
-## Sketch 3
+### Sketch 3
 
-### P5.js transition + Functions with parameters
+### Interactive Repetition & Drawing: Modularity, Pattern Part II
 
-####Due Sept 26
+#### Due Sept 26 8 AM Sharp
 
+Using a pattern created in sketch 2, how can you use it as a drawing tool/instrument? What if it that pattern was one bristle on a brush? What if three bristles touched the canvas?
 
- 1.) Take your first sketch - your monster - and translate it to the P5.js platform. Make sure that it functions in the browser properly!
+The goal is to create multiple patterns, on one input. How can each pattern have a unique location on the screen, so that they are not all drawn on top of each other?
 
- 2.) Organize your monster into functions, utlizing variables and passing parameters. It's possible to nest functions inside other functions. For example, you could call fraggle(), and it would call other functions (ex, head, neck, tenacles, etc) that would individually contain their drawing elements. You do not have to do this. It is an option. A different way to design the code.
+Matrix transformations, variables, loops and rotation are your keys.
 
- Matrix transformations can be quite handy here. Use variables for the x and y positions that are passed with the function call. Doing so will enable you to have multiples on the screen in varying locations.
+Use your variables to parameterize and control this brush. Focus on one structure of code. By manipulaing your variables, you can control, diversify, and manipulate your design.
 
+Can you send it values to animate it across the screen based upon an input? Can you create a loop, which creates your pattern? Can you then trigger that loop upon input? Can this sequence of events take in data, to make it slightly different over time? 
 
- 3.) Further organize those functions, into requiring variables for particular aspects that you wish to vary - width, height, color, variety, etc etc. Pass these variables as parameters and use them within the functions.
+Can you then create different brushes, each with a unique form/pattern. How many iterations of your pattern occur with one click or mouse movement?
 
+How does the size change? How does the space between the marks change? Can you make a spray can pattern? Does something happen to the mark once it's on the page? Does it bleed, spread, or blend with other colors on the page once it's there?
 
- 4.) Create 3 different monsters, with 3 calls to the same function. Pass different parameters in each call, to make each monster unique. There should be similarities and differences between them. There should be similarities and differences between them. This should be not only in how they look, but how they move and behave.
+ - How could you incorporate random and/or interactivity to add variety + change? How could this be controlled over time?
 
+ - Use your matrix transformations and for-loops
 
- **Bonus:** Create an array that stores different values for one variable. Ex. hair colors, # of appendages, # of eyes, etc. Use a for-loop to iterate through the array, passing the array's indice to a monster function call as a parameter.
+ Reference: [Lia](http://www.liaworks.com/category/theprojects/)
+ [Eno Henze](http://enohenze.de/)

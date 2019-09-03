@@ -1,5 +1,5 @@
-# DM-UY 1133-C Creative Coding
-##### Fall 2018 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
+# DM-UY 1133-A Creative Coding
+##### Fall 2019 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
 
 ## [Schedule Weekly Detail](Calendar.md) 
 
@@ -27,7 +27,6 @@
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<strong> Sketch 2B Due </strong> <br>
 	DeBugger + Loops (review)<br>
 	Matrix Transformations <br>
 	In-Class challenge<br>
@@ -53,7 +52,7 @@
   <td valign="top">do</td>
 	<!-- day Tues -->
  	<td valign="top"> 
- 	<li><a href = "Sketch_2.md"> Sketch 2B </a></li>		
+ 	<li><a href = "Sketch_2.md"> Sketch 2 </a></li>		
  	</td>
   	<!-- day Thurs -->
   	<td valign="top">

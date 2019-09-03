@@ -21,6 +21,7 @@
     <td valign="top"><a href="week_2_detail.md">Sept 12</a><br><strong>Sketch 1 Due<br>Turning in Assignments<br>
 	Loops<br>
 	Comments<br>
+	Variables (Review)<br>
 	In-class Challenge<br></strong></td>
 </tr>
 <tr>
@@ -28,10 +29,11 @@
 	<td valign="top"><a href="week_3_detail.md">Sept 17</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
 	Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Sept 19</a><br><strong>Sketch 2A Due<br></strong><br>DeBugger + Loops (review)<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 19</a><br><strong>Sketch 2 Due<br></strong>DeBugger + Loops (review)<br>
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions II <br>
 	Intro to P5 <br>
+	In-Class: Sketch 4 <br>
 	</td>
 </tr>
 

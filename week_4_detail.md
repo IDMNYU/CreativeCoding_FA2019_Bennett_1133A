@@ -1,5 +1,5 @@
-# DM-UY 1133-C Creative Coding
-##### Fall 2018 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
+# DM-UY 1133-A Creative Coding
+##### Fall 2019 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
 
 ## [Schedule Weekly Detail](Calendar.md) 
 
@@ -23,6 +23,7 @@
 	 P5<br>
 	Functions + passing parameters <br>
 	Arrays<br>
+	<a href = "sketch_4.md">Sketch 4</a><br>
 	Show & Tell <br>
 	</td>
 	<!-- day Thurs -->
