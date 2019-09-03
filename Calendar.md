@@ -121,6 +121,7 @@
 	</td>
 </tr>
 <tr>
+	<td>Finals Week</td>
 	<td valign="top" colspan="2">Dec 16<br><strong>No on-campus meeting; Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE </a><br>Have a great break!<br></strong>
 	</td>
 </tr>
