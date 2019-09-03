@@ -55,7 +55,7 @@
 	<!-- day Tues -->
 	<td valign="top">
  	<li> last week's assignments, if you haven't completed them yet.<li>
- 	<li><a href = "Sketch_1.md"> Sketch 1 </a>
+ 	<li><a href = "Sketch_1.md"> Sketch 1 </a></li>
  </td>
   	<!-- day Thurs -->
   	<td valign="top">
