@@ -58,7 +58,8 @@
 <td valign="top">do</td>
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<a href = "https://join.slack.com/t/creativecodin-1oc9945/shared_invite/enQtNzQ2Mzk1Njg5MDcyLTkzN2RjN2VhMjRhZGY5NTY0NmE2Zjg4YjI2Y2JmNmY4ZDBhOTE4MDhmNWVmNTM5ZmU0ZGI2NTQ4YjkyNDA5OGY"><li>Join the Slack channel for this course</li> </a>
+ 		<li> <a href = "https://slack.com/"> download Slack </a></li>
+ 		<li><a href = "https://join.slack.com/t/creativecodin-1oc9945/shared_invite/enQtNzQ2Mzk1Njg5MDcyLTkzN2RjN2VhMjRhZGY5NTY0NmE2Zjg4YjI2Y2JmNmY4ZDBhOTE4MDhmNWVmNTM5ZmU0ZGI2NTQ4YjkyNDA5OGY">Join the Slack channel for this course</li> </a>
  		<li>Get a <a href = https://github.com/>Github 	account</a></li>
 		<li>Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).</li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>

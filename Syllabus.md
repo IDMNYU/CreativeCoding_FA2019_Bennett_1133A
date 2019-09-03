@@ -3,7 +3,7 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
-* [Slack:](creativecodin-1oc9945.slack.com)
+* [Slack:](https://app.slack.com/client/TMS0A9DT3/CMLTVL2AX)
 * **Office Hours: by appointment*
 # Creative Coding: An Intro to Creative Coding
 370 Jay Street, Room 311
