@@ -100,7 +100,8 @@
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 21<br><br> <strong>Final Project: Working Prototype Due </strong><br>Topics by request<br> Show & Tell <br>
+	<td valign="top">Nov 21<br><br> <strong>Final Project: Working Prototype Due <br>
+	In-class critique <br></strong><br>Topics by request<br> Show & Tell <br>
 	</td>
 	<td valign="top">Nov 26<br><strong>Sound<br>Show & Tell<br></strong>
 	</td>
@@ -110,12 +111,14 @@
 </tr>
 <tr>	
 	<td>13</td><td valign="top">Dec 3<br><strong>
-	Final Project: Beta Version Due <br>Topics by Request <br></strong>	
+	Final Project: Beta Version Due <br>In-class critique <br></strong>	
 	</td>
-	<td valign="top">Dec 5<br><strong>Topics by Request <br></strong></td>	
+	<td valign="top">Dec 5<br><strong>
+		Code-swap + Bug Squashing <br>
+		Topics by Request <br></strong></td>	
 </tr>
 <tr>	
-	<td>14</td><td valign="top">Dec 10<br><strong>Final Presentations</strong>
+	<td>14</td><td valign="top">Dec 10<br><strong>TBR</strong>
 	</td>
 	<td valign="top">Dec 12<br><strong>Final Presentations</strong>
 	</td>
