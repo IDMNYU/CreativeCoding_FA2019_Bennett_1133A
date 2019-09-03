@@ -43,11 +43,13 @@ This book is available for purchase in the NYU bookstore, and will be at the NYU
 
 • https://github.com/processing/p5.js
 
-• Douglas Rushkoff’s Program or Be Programmed (emailed)
+• Douglas Rushkoff’s Program or Be Programmed (see slack resources)
 
 • [Tipes on Debugging](https://vimeo.com/channels/debugging)
 
 • [Finished is Better Than Perfect](https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect)
+
+• [IDM Github tutorials](https://idmnyu.github.io/)
 
 ### Fabulous References and Supporting Resources
 #### Programming (general) and other languages
