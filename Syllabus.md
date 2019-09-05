@@ -4,6 +4,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](https://app.slack.com/client/TMS0A9DT3/CMLTVL2AX)
+* [openProcessing Workspace (where homework is submitted; See Slack for join code)](https://www.openprocessing.org/class/60479)
 * **Office Hours: by appointment*
 # Creative Coding: An Intro to Creative Coding
 370 Jay Street, Room 311
