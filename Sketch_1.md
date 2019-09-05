@@ -4,7 +4,7 @@
 			
 Come to class on Sept 12 with code that does the following:
 
-Write a program that creates a creature. Use 5 different colors and 7 different shapes (MINIMUM). Can you do more? Can you stylize your creature? How can you make them interesting and noteable? How is their personality visually evident? We need to be able to look at your monster and to distinguish 2 personality traits. 
+Write a program that creates a creature. Use 5 different colors and 7 different shapes (MINIMUM). Can you do more? Can you stylize your creature? How can you make them interesting and notable? How is their personality visually evident? We need to be able to look at your monster and to distinguish 2 personality traits. 
 
 Get creative and have fun!
 
