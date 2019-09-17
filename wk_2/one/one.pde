@@ -33,7 +33,7 @@ void draw(){
   if(xLoc > width){
     xLoc = -200;
   }
-  
+ 
   
   if(mouseX < width/2 && mouseY < height/2){
     rectFill = color(0);
@@ -41,22 +41,22 @@ void draw(){
   else if (mouseX > width/2 && mouseY < height/2){
     rectFill = color(229, 34, 232);
   }
-  else if( mouseX < width/2 && mouseY > height/2){
+  else if( (mouseX < width/2) && (mouseY > height/2)){
     rectFill = color(162, 95, 255);
   } // purple color closer
-  /*
+ 
   else{
     rectFill= color(255);
   }
-  */
   
+  // this block creates the rect:
   strokeWeight(2);
   stroke(232, 177, 12);
   fill(rectFill);
   rect(xLocRect, 200, 50, 50);
   
   
-  if(mousePressed == true){
+  if(mousePressed == false){
     triX = triX + 200;
     triY = triY - 200;
     fill(0);
@@ -75,9 +75,11 @@ void draw(){
    triFill = color(255, 157, 13); 
   }
   
+   
+   
   fill(triFill);
   triangle(150 + triX, 700 + triY, 200 + triX, 600 + triY, 250 + triX, 700 + triY);
   
-  
+ 
   
 }

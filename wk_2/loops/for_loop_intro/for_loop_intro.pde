@@ -10,7 +10,7 @@ void draw() {
   background(100, 200, 225);
   fill(175, 255, 203);
   noStroke();
-  
+  /*
   ellipse(40 * 1, 50, 10, 10);
   ellipse(40 * 2, 50, 10, 10);
   ellipse(40 * 3, 50, 10, 10);
@@ -20,17 +20,16 @@ void draw() {
   ellipse(40 * 7, 50, 10, 10);
   ellipse(40 * 8, 50, 10, 10);
   ellipse(40 * 9, 50, 10, 10);
+  */
   
-  
-/*
+
   //println(mouseX);
   for (int i = 1; i < 10; i++) {
-    float r = 1; // 
+    float r = random(1); 
     ellipse((40 * i) * r, 50, 10, 10);
-   
   }
-  */
 
+ 
 
  
 
