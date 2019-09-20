@@ -29,45 +29,45 @@ Get familiar with your display preferences IN. ADVANCE. I'm. Not. Joking.!! I'm 
 
 #### Show and Tell People
 
-Week 3B - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> 
+Week 3B - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Jide
 
-Week 3B -  Casey Reas, Zachary Lieberman ---> 
+Week 3B -  Casey Reas, Zachary Lieberman ---> Leo
 
-Week 4A - United Visual Artists, Hellicar & Lewis ---> 
+Week 4A - United Visual Artists, Hellicar & Lewis ---> Tasmia
 
-Week 4B - Seb Lee-Delisle & Kyle McDonald ---> 
+Week 4B - Seb Lee-Delisle & Kyle McDonald ---> Sam
 
-Week 4B - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
+Week 4B - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Jack
 
-Week 5A -  Jer Thorpe, Soso Limited ---> 
+Week 5A -  Jer Thorpe, Soso Limited ---> Marcello
 
-Week 5A - Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
+Week 5A - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Soo Jin
 
-Week 8A - Marius Watz & Memo Akten ---> 
+Week 8A - Marius Watz & Memo Akten ---> Markk
 
-Week 8A - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> 
+Week 8A - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> Linda
 
-Week 9B - Jurg Lehni, Red Paper Heart   ---> 
+Week 9B - Jurg Lehni, Red Paper Heart   ---> Dylan
 
-Week 9B - Amit Pitaru, rAndom International  ---> 
+Week 9B - Amit Pitaru, rAndom International  ---> Sam
 
-Week 10A - Eno Henze, Cedric Kiefer ---> 
+Week 10A - Eno Henze, Cedric Kiefer ---> Shipon
 
-Week 10A - Diato Manabe, Leo Villareal ---> 
+Week 10A - Diato Manabe, Leo Villareal ---> Justin
 
-Week 10B - Karolina Sobecka, Future Cities Lab ---> 
+Week 10B - Karolina Sobecka, Future Cities Lab ---> Olivia
 
-Week 10B - Robert Hodgin - Flight404, Karsten Schmidt ---> 
+Week 10B - Robert Hodgin - Flight404, Karsten Schmidt ---> Bracha
 
-Week 12A - Ryan Habbyshaw, Lauren McCarthy  ---> 
+Week 12A - Ryan Habbyshaw, Lauren McCarthy  ---> Sophia
 
-Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> 
+Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> Abrar
 
-Week 12B - Michael Hansmeyer, Waltz Binarie ---> 
+Week 12B - Michael Hansmeyer, Waltz Binarie ---> Yuchen/Dove
 
 Week 12B - Paul Prudence, Moment Factory ---> 
 
-Week 13A - Chris Sugrue, Fernanda Viegas---> 
+Week 13A - Chris Sugrue, Fernanda Viegas---> Johnny
 
 
-Extra Credit Possibilities:  Nina Wenhart, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+Extra Credit Possibilities:  Congraz, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
