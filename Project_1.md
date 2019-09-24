@@ -1,8 +1,8 @@
 ## Project 1 - The Unexpected Machine: Performance Adjective
 
-** Due Oct 10 --> In class critiques**
+**Due Oct 10 --> In class critiques**
 
-** 20% of your final grade**
+**20% of your final grade**
 
 Weekly pushes and development are expected
 
@@ -32,7 +32,7 @@ Create custom functions that are triggered on some event, and make those functio
 • Random <br>
 • Functions
 
-###Must haves: 
+### Must haves: 
 <br>
 	• heavy use of variables<br>
 	• custom functions passing variables as parameter <br>
