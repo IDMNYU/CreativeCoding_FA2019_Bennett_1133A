@@ -5,9 +5,9 @@ Creative Coding Syllabus &amp; Class repo
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](https://app.slack.com/client/TMS0A9DT3/CMLTVL2AX)
 * [openProcessing Workspace (where homework is submitted)](https://www.openprocessing.org/class/60479)
-* **Office Hours: by appointment*
-* **Graduate Assistant: Che-Yu Wu
-* **[contact details and information](GA_Details.md)**
+* **Office Hours: by appointment**
+* **Graduate Assistant: Che-Yu Wu**
+* **[contact details and information for Che-Yu (read them carefully)](GA_Details.md)**
 
 # Creative Coding: An Intro to Creative Coding
 370 Jay Street, Room 311

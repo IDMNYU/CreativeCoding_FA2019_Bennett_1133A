@@ -15,14 +15,14 @@ Weekly Time:
 2. Thursday 2 PM - 6 PM
 
 Appointment: [Calendly](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/)  
-maximum 1 people per half hour
+##### maximum 1 people per half hour
 
 Other Learning Resources:
 The Coding Train: https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
 
 The following process will be helpful to state your problem with your creative coding work, and make us identify the problems faster.
 
-####Identify the Goal you want to achieve:
+#### Identify the Goal you want to achieve:
 e.g. 
 * “I want to make a blah blah blah. When I try to achieve some of fact I am stocked in oh whatever problem”	
 * Explain what you have explored
