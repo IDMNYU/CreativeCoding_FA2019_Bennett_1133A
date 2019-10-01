@@ -5,7 +5,7 @@ class Monster {
   int ang;
   float wanderX ;
   float wanderY ;
-  float x, y;
+  public float x, y;
   color s1 ; //greenish yellow
   color s2 ; //lighter green
   color blink ;
