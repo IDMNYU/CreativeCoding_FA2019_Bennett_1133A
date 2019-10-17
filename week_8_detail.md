@@ -26,7 +26,7 @@
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-		<strong> <a href = "Sketch_4.md"> Sketch 4 Due </a></strong> <br>
+		<strong> </strong> <br>
 	String Manipulations <br>
 	Show & Tell <br>
 	</td>
