@@ -33,7 +33,6 @@
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions II <br>
 	Intro to P5 <br>
-	
 	</td>
 </tr>
 
