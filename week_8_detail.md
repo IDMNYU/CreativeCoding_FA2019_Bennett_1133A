@@ -27,7 +27,8 @@
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 		<strong> </strong> <br>
-	String Manipulations <br>
+	Steering <br>
+	Images (Part I)<br>
 	Show & Tell <br>
 	</td>
 <!-- homework -->
@@ -51,7 +52,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Sketch_5.md"> Work on Sketch 5 </a> <br>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a> Due this week! See Assignment Brief<br>
   	</td>	
 </tr>
 </table>

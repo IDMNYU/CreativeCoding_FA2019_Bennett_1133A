@@ -33,7 +33,7 @@
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions II <br>
 	Intro to P5 <br>
-	In-Class: Sketch 4 <br>
+	
 	</td>
 </tr>
 
@@ -69,14 +69,14 @@
 	</td>
 </tr>
 <td>8</td>
-	<td valign="top"><a href="week_8_detail.md">Oct 24</a><br><strong>Vectors + Forces <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">Oct 24</a><br><strong>Vectors + Forces + Steering <br>Images<br></strong>
 	</td>
-	<td valign="top"><a href="week_8_detail.md">Oct 29</a><br><strong>Sketch 4 due <br>String manipulations <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">Oct 29</a><br>Image Manipulation <br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">Oct 31</a><br><strong>Buffer Week</strong> <br>
+	<td valign="top"><a href="week_9_detail.md">Oct 31</a><br><strong>Text + Strings</strong> <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 	<td valign="top"><a href="week_9_detail.md">Nov 5</a><br><strong>Working with API's	<br>Show & Tell <br></strong><br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
