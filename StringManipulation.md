@@ -9,6 +9,8 @@ This will be the data you use to generate a new piece, poem, data visualization,
 
 3. Create the code to find those data points and to "do it's thing."
 
+Use at least 2 expressions to parse the string of text for the precise data you need. Use [the RegExr site](http://regexr.com/) as guide to formulate your expressions
+
 4. Visualize your data in some interesting way. Have the output appear algorithmically. Be thoughtful in this endeavour. Play with timing, location, appearance, font, size, color, existence, animation,  procedural aspects or interactivity 
 
 
