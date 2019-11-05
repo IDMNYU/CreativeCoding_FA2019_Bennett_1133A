@@ -2,10 +2,10 @@
 
 ### Due November 12 via your Github repo for the final project
 
-#### 15% of your final grade (10% research + presentation; 5% participation re: others' presentations and ideas)
+#### 5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)
  
 
-#### Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates use the 1 one of the [storyboard templates](https://github.com/IDMNYU/CreativeCoding_1133-C_Bennett_Fall18/tree/master/storyboardTemplates) to illustrate: 
+#### Develop 3 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates use the 1 one of the [storyboard templates](https://github.com/IDMNYU/CreativeCoding_1133-C_Bennett_Fall18/tree/master/storyboardTemplates) to illustrate: 
 	
 * What it would look like through various stages (interaction, time)
 
@@ -14,7 +14,7 @@
 * System design: What does your software interact with? Humans? Then show the interface AND the system design. Other software? Draw a software map showing when, how and under what conditions the pieces of software interact.
 
 
-**You must do this entire process 4 times - once for each idea**
+**You must do this entire process 3 times - once for each idea**
 
 #### Bring in outside references, links and resources demonstrating: 
 
@@ -24,9 +24,9 @@
 
 * Contextual information about the concept, meaning, expression, goal
 
-**You must do this entire process 4 times - once for each idea**
+**You must do this entire process 3 times - once for each idea**
 
-#### Prepare a 4 minute presentation on these 4 ideas. Have your links ready to go, images scanned and slides ready. Be able to discuss your idea.
+#### Prepare a 3 minute presentation on these 3 ideas. Practice this presentation, playing all of your media. Have your links ready to go, images scanned and slides ready. Be able to discuss your idea.
 
 #### Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it.
 
