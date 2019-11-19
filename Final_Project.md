@@ -10,7 +10,7 @@
 
 ## Dates: 
 
-### Working Prototype Due: November 21th - Critiqued
+### Working Prototype Due: November 26th - Critiqued
 ### Beta Version Due: Dec 3th - Critiqued
 ### Alpha Version Due: Dec 10 inclass presentations
 
