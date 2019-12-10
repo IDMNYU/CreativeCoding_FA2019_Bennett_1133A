@@ -22,7 +22,7 @@ Using Word or another text editor, reflect on the following:
 # Also do each of the following:
 
 ### Documentation of your final project: 
-• Take several screen shots of application running. Infact, [shoot a short video of the screen](https://mac-how-to.gadgethacks.com/how-to/record-your-macs-screen-for-free-using-quicktime-0166773/). If it's interactive take some photos of someone interacting with it. Get good, crisp, well lit, clear shots.
+• Take several screen shots of application running. Infact, [shoot a short video of the screen](https://mac-how-to.gadgethacks.com/how-to/record-your-macs-screen-for-free-using-quicktime-0166773/). Get good, crisp, well lit, clear shots.
 
 • copy and pasted 2-3 screen shots of code into Sublime that you are most proud of.
 
@@ -33,6 +33,6 @@ Using Word or another text editor, reflect on the following:
 
 • Submit any missing exercises to get credit for them. Post them to github and email me that they are up.
 
-• Each repo is named after the assignment and with all of the work, code, documentation, support files, editions. Leave the other repository up there if you have multiple ones. Just name sure to make a new one if you currently have multiple repository for one assignment 
 
-# All of the above must be submitted by 17:00 Dec 14
+
+# All of the above must be submitted by 8:00AM Dec 17
